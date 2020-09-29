@@ -1,0 +1,27 @@
+{
+  "name": "timber-tailwind-starter",
+  "version": "1.0.0",
+  "description": "The \"_s\" for Timber: a dead-simple theme that you can build from. The primary purpose of this theme is to provide a file structure rather than a framework for markup or styles. Configure your Sass, scripts, and task runners however you would like!",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsvahid/timber-tailwind-starter.git"
+  },
+  "author": "Vahid Abdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsvahid/timber-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/itsvahid/timber-tailwind-starter#readme",
+  "dependencies": {
+    "cross-env": "^7.0.2",
+    "laravel-mix": "^5.0.5",
+    "tailwindcss": "^1.8.10"
+  }
+}
